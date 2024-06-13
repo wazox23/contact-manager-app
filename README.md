@@ -11,4 +11,4 @@ All these operations are protected by authentication using a token that is valid
 
 The application is built on Node.js and Express.js technologies, the data is stored in MongoDB database using Mongoose
 
-Translated with DeepL.com (free version)
+
